@@ -17,4 +17,7 @@ cd ${PWD}/webup
 bash update-caddy.sh
 ```
 
-or ```curl -s 'https://raw.githubusercontent.com/LucienV1/webup/main/update-caddy.sh' | bash```
+or 
+```
+curl -s 'https://raw.githubusercontent.com/LucienV1/webup/main/update-caddy.sh' | bash
+```
