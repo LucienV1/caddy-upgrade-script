@@ -8,6 +8,7 @@ github.com/greenpau/caddy-security
 github.com/WeidiDeng/caddy-cloudflare-ip
 
 # to use
+run
 ```
 git clone https://github.com/LucienV1/caddy-upgrade-script.git
 bash update-caddy.sh
