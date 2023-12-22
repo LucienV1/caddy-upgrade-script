@@ -11,5 +11,6 @@ github.com/WeidiDeng/caddy-cloudflare-ip
 run
 ```
 git clone https://github.com/LucienV1/caddy-upgrade-script.git
+cd ${PWD}/caddy-upgrade-script
 bash update-caddy.sh
 ```
