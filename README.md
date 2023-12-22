@@ -1,4 +1,4 @@
-# caddy-upgrade-script
+# caddy upgrade script
 personal bash upgrade script for my ubuntu 20.04 webserver
 
 # packages installed
@@ -10,7 +10,7 @@ github.com/WeidiDeng/caddy-cloudflare-ip
 # to use
 run
 ```
-git clone https://github.com/LucienV1/caddy-upgrade-script.git
-cd ${PWD}/caddy-upgrade-script
+git clone https://github.com/LucienV1/webup.git
+cd ${PWD}/webup
 bash update-caddy.sh
 ```
