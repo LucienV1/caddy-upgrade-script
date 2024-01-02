@@ -13,7 +13,7 @@ curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt' | sudo 
 # Update Caddy
 
 sudo apt update
-sudo apt upgrade caddy -y
+sudo apt upgrade -y caddy
 
 # Add Caddy packages and restart
 
