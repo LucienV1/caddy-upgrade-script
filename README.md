@@ -19,5 +19,5 @@ bash update-caddy.sh
 
 or 
 ```
-curl -s 'https://raw.githubusercontent.com/LucienV1/webup/main/update-caddy.sh' | bash
+curl -s 'https://raw.githubusercontent.com/LucienV1/webup/main/update-caddy.sh' | sudo bash
 ```
